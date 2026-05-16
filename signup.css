@@ -18,5 +18,7 @@ h1{
     
 }
 button{
+    background-color: brown;
     margin: 15px;
+    border-radius: 6px;
 }
