@@ -18,5 +18,11 @@ h1{
     
 }
 button{
+    color: brown;
     margin: 15px;
+    border-radius: 6px;
+}
+script{
+    color:red;
+    padding: 10px;
 }
