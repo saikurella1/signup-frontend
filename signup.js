@@ -21,7 +21,7 @@ async function signup(){
                 return;
             }
             let response = await fetch(
-                "https://signup-project-1-czli.onrender.com/signup",
+                "https://signup-api-dev-czli.onrender.com/signup",
                 {
                     method: "POST",
         
