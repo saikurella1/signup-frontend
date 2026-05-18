@@ -34,7 +34,7 @@ async function signup(){
                         lastName: lastName,
                         emailid: emailid,
                         mobileNumber: mobileNumber,
-                        password: password,
+                        password: passwords,
                     })
                 }
             );
