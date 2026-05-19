@@ -34,6 +34,7 @@ label{
 }
 input{   
     font-size: 25px;
+    font-size: 30px;
     border:1px solid #e5e7e6;
     border-radius: 8px;
     padding: 0 16px 0 44px;
@@ -99,4 +100,12 @@ btn{
     background-color: #ffffff;
     padding: 0 20px;
     margin: 10px 100px;
+    cursor: not-allowed;
+    
+}
+button:hover{
+    background-color: #6d28d9;
+}
+button:active {
+    background-color: #4c1d95;
 }
